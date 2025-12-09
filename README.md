@@ -20,11 +20,11 @@ Unlike traditional edge detection algorithms (like Canny, Sobel, or HED) which o
 
 ## Gallery & Examples
 
-|                        Original Photo                        |                      GenLineArt Result                       |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![Original Street View](https://www.genlineart.com/lineart_before.png) |        ![Line Art Result](./assets/lineart_after.png)        |
-|                       *Personal photo*                       |                     *Clean backgrounds*                      |
-| ![Original Portrait](./assets/imageurl=%2Fshowcase%2Fportrait-4-original.jpeg) | ![Line Art Portrait](./assets/imageurl=%2Fshowcase%2Fportrait-4-after.png) |
+|                        Original Photo                        |               GenLineArt Result                |
+| :----------------------------------------------------------: | :--------------------------------------------: |
+| ![Original Street View](https://www.genlineart.com/lineart_before.png) | ![Line Art Result](./assets/lineart_after.png) |
+|                       *Personal photo*                       |              *Clean backgrounds*               |
+|        ![Original Portrait](./assets/2_original.jpeg)        |   ![Line Art Portrait](./assets/2_after.png)   |
 
 *(Note: Click the images to see high-res versions on the website)*
 
@@ -78,3 +78,4 @@ If you have any feedback or feature requests, feel free to open an issue in this
 **[Start Creating Now ->](https://genlineart.com)**
 
 contact：support@genlineart.com
+
